@@ -1,4 +1,4 @@
-##OVERLAY FS
+## OVERLAY FS
 
     #prepare layers
     sudo mkdir -p /var/log.tmpfs
